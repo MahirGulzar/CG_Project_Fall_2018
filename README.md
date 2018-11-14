@@ -7,3 +7,5 @@ Team Members:
 - Mahir Gulzar
 - Vladyslav Kupriienko
 - Stanislav Bondarenko
+
+Project updates: https://courses.cs.ut.ee/2018/cg/fall/Main/Project-Discworld
